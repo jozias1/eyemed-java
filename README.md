@@ -1,4 +1,4 @@
-eyemed-java
-===========
+# eyemed-java
 
-EyeMed Java Source
+## EyeMed Java Source
+This repository contains the EyeMed Java source code and build scripts.
