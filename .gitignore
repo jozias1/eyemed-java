@@ -1,3 +1,8 @@
+# Project Folders/Files #
+.idea
+*.iml
+
+# Class Files #
 *.class
 
 # Package Files #
